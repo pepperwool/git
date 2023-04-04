@@ -1,5 +1,3 @@
-#recipe 
-
 ## Instructions
 
 1. Place eggs in the bottom of a saucepan. Be sure not to crowd the eggs in the pan. They should fit comfortably.
