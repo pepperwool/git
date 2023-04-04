@@ -1,3 +1,7 @@
+## The recipe of choice
+
+I chose this recipe because I like all kinds of egg dishes.
+
 ## Instructions
 
 1. Place eggs in the bottom of a saucepan. Be sure not to crowd the eggs in the pan. They should fit comfortably.
@@ -30,7 +34,7 @@ This is a reference table that shows you how long you should boil your agg accro
 
 | Minutes | 4  |  6 |  8 | 10 | 12 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|
-| References | ![4](4.png) | ![6](6.png) | ![8](8.png) | ![10](10.png) | ![12](12.png) |
+| References | ![4](/.github/4.png) | ![6](6.png) | ![8](8.png) | ![10](10.png) | ![12](12.png) |
 
 
 ## Spices
