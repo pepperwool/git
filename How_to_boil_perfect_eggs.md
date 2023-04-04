@@ -6,7 +6,7 @@
 
 2. Fill the pan with cold water, *1 inch* above the eggs.
 
-    ![](https://thestayathomechef.com/wp-content/uploads/2014/10/How2Bto2Bboil2Beggs2B2.jpg)
+![](https://thestayathomechef.com/wp-content/uploads/2014/10/How2Bto2Bboil2Beggs2B2.jpg)
 
 3. Bring the water to a rapid boil on the stovetop over high heat.
 
