@@ -30,7 +30,7 @@ This is a reference table that shows you how long you should boil your agg accro
 
 | Minutes | 4  |  6 |  8 | 10 | 12 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|
-| References | ![4](4.png) | ![6](6.png) | ![8](8.png) |!([10]10.png)|![12](12.png)|
+| References | ![4](4.png) | ![6](6.png) | ![8](8.png) | ![10](10.png) | ![12](12.png) |
 
 
 ## Spices
