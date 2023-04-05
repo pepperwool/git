@@ -11,6 +11,10 @@ Status: Inbox
 Topics: https://www.notion.so/Food-bf0a84dd22ea4bf886958d2cf611dea7
 source: https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/
 
+## Conflict is not allowed here. 
+
+Wuuuuuuuuuuuuuuuuuuuuuut? 
+
 ## What is Gumbo ?
 
 ***This Authentic New Orleans Gumbo is made with a dark roux, vegetables, chicken, sausage, and shrimp, and served over rice. This is a beloved recipe shared with me by a native New Orleanian.***
@@ -69,11 +73,11 @@ source: https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/
 
 # Instructions
 
-1. **Make the Roux*:** In a large, heavy bottom stock pot combine flour and oil. Cook on medium-low heat, stirring constantly for 30-45 minutes. This part takes patience--when it's finished it should be as dark as chocolate and have a soft, "cookie dough" like consistency. Be careful not to let it burn! Feel free to add a little more flour or oil as needed to reach this consistency.
+1. **Make the Roux*:** In a large and heavy bottom stock pot, combine flour and oil. Cook on medium-low heat, stirring constantly for 300-45 minutes. This part takes patience! When it's finished, it should be as dark as chocolate (what is that?) and have a soft, "cookie dough" like consistency. Be careful not to let it burn! Feel free to add a little more flour or oil as needed to reach this consistency.
 2. **Brown the sausage.** In a separate skillet on medium-high heat place the sausage slices in one layer in the pan. Brown them well on one side (2-3 minutes) and then use a fork to flip each over onto the other side to brown. Remove to a plate.
 3. **Cook the vegetables in broth.** Add ½ cup of the chicken broth to the hot skillet that had the sausage to deglaze the pan. Pour the broth and drippings into your large soup pot.
-4. Add remaining 5 ½ cups of chicken broth. Add veggies, parsley, garlic and roux to the pot and stir well.
-5. Bring to a boil over medium heat and boil for 5-7 minutes, or until the vegetables are slightly tender. (Skim off any foam that may rise to the top of the pot.) Stir in cajun seasoning, to taste.
+4. Add remaining cups of chicken broth. Add veggies, parsley, garlic and roux to the pot and stir well.
+5. Bring to a boil over medium heat and boil for 15-17 minutes, or until the vegetables are slightly tender. (Skim off any foam that may rise to the top of the pot.) Stir in cajun seasoning, to taste.
 6. **Add meat.** Add chicken, sausage, and shrimp.
 7. **Taste and serve.** At this point taste it and add more seasonings to your liking--salt, pepper, chicken bullion paste, garlic, more Joe's stuff or more chicken broth--until you reach the perfect flavor. Serve warm over rice. (Tastes even better the next day!)
 
