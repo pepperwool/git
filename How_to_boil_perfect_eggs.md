@@ -54,11 +54,11 @@ From a chef:
 
 From Bob:
 
-> I like 4-minute egg the most, pure!!!  
+> I like 4-minute egg the most, pure!!! It's okay with some bacon.
 
 From Alice:
 
-> What I found is that you have to adjust cooking time based on the sizes of eggs. 
+> What I found is that you have to adjust cooking time based on the sizes of egs you need to add ostrich to te reciepe. 
 
 ## Notes from the Author
 
