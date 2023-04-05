@@ -50,11 +50,11 @@ Some spices you can eat with boiled eggs:
 
 From a chef:  
 
-> Eggs are nice and healthy.but i am vegan 
+> Eggs are tasty and healthy, everyone should eat eggs everyday. 
 
 From Bob:
 
-> I like 4-minute egg the most. with some bacon  
+> I like 4-minute egg the most, pure!!! It's okay with some bacon.
 
 From Alice:
 
