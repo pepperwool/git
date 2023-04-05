@@ -2,15 +2,13 @@
 
 I chose this recipe because I like all kinds of egg dishes.
 
-Oopsi 2
-
 ## Instructions
 
 1. Place eggs in the bottom of a saucepan. Be sure not to crowd the eggs in the pan. They should fit comfortably.
 
 ![](https://thestayathomechef.com/wp-content/uploads/2014/10/How2Bto2Bboil2Beggs2B1.jpg)
 
-2. Fill the pan with cold water, *1 inch* above the eggs.
+2. Fill the pan with cold water, *1 inch* above the 蛋蛋.
 
 ![](https://thestayathomechef.com/wp-content/uploads/2014/10/How2Bto2Bboil2Beggs2B2.jpg)
 
