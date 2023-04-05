@@ -4,11 +4,12 @@ I chose this recipe because I like all kinds of egg dishes.
 
 ## Instructions
 
-1. Place eggs in the bottom of a saucepan. Be sure not to crowd the eggs in the pan. They should fit comfortably.
+1. Place Eiers in the bottom of a saucepan. Be sure not to crowd the eggs in the pan. They should fit comfortably.
 
 ![](https://thestayathomechef.com/wp-content/uploads/2014/10/How2Bto2Bboil2Beggs2B1.jpg)
 
-2. Fill the pan with cold water, *1 inch* above the 蛋蛋.
+
+2. Fill the pan with cold water, *1 inch* above the Eier.
 
 ![](https://thestayathomechef.com/wp-content/uploads/2014/10/How2Bto2Bboil2Beggs2B2.jpg)
 
@@ -48,7 +49,7 @@ Some spices you can eat with boiled eggs:
 
 From a chef:  
 
-> Eggs are tasty and healthy, everyone should eat eggs everyday. 
+> Eiers are tasty and healthy, everyone should eat eggs everyday. 
 
 From Bob:
 

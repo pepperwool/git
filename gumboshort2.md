@@ -11,10 +11,6 @@ Status: Inbox
 Topics: https://www.notion.so/Food-bf0a84dd22ea4bf886958d2cf611dea7
 source: https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/
 
-## Conflict is not allowed here. 
-
-Wuuuuuuuuuuuuuuuuuuuuuut? 
-
 ## What is Gumbo ?
 
 ***This Authentic New Orleans Gumbo is made with a dark roux, vegetables, chicken, sausage, and shrimp, and served over rice. This is a beloved recipe shared with me by a native New Orleanian.***
